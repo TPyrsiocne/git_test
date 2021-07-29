@@ -6,7 +6,7 @@ def isprime(n):
 			return False
 	return True
 
-for i in range(1, 101):
+for i in range(1, 151):
 	if isprime(i):
 		print(i)
 
