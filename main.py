@@ -1,4 +1,5 @@
-# a python program
+# a python program to find some primes
+
 import math
 
 def isprime(n):
